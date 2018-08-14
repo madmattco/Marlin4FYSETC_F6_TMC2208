@@ -1,4 +1,4 @@
-# Marlin4FYSETC_F6_TMC2208
+# Marlin For FYSETC F6 TMC2208
 Marlin firmware for fysetcf6 boards using TMC2208 stepper driver
 
 **Modified for FYSETC F6 (Experimental)**
